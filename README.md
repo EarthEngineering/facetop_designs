@@ -2,9 +2,9 @@
 
 Facetop Mask and Glove designs in multiple formats:
 
-* [SVG]("ais/")
-* [Adoble Illustrator]("images/")
-* [PNG]("images/")
+* [SVG](ais/)
+* [Adoble Illustrator](images/)
+* [PNG](images/)
 
 ## More Info
 
