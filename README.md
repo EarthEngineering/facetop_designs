@@ -1,6 +1,10 @@
 # Facetop Designs
 
-Facetop Mask and Glove designs in SVG and Adoble Illustrator format.
+Facetop Mask and Glove designs in multiple formats:
+
+* [SVG]("ais/")
+* [Adoble Illustrator]("images/")
+* [PNG]("images/")
 
 ## More Info
 
