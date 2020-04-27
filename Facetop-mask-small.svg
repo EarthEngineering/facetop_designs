@@ -13,6 +13,7 @@
 	.st7{font-family:'HelveticaNeue';}
 	.st8{font-size:15.0782px;}
 	.st9{font-size:41.943px;}
+	.st10{font-size:29.2816px;}
 </style>
 <g id="SVG" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg">
 	<g id="numbers">
@@ -44,5 +45,7 @@
 <g id="Test">
 	<text transform="matrix(1 0 0 1 43.96 93.9738)" class="st7 st8">Size: small</text>
 	<text transform="matrix(1 0 0 1 43.9598 64.7058)" class="st7 st9">Facetop</text>
+	<text transform="matrix(1 0 0 1 396.7106 811.9282)" class="st7 st8">http://www.facetop.earth</text>
+	<text transform="matrix(1 0 0 1 470.7109 788.751)" class="st7 st10">EARTH</text>
 </g>
 </svg>

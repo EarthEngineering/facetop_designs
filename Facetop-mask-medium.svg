@@ -10,8 +10,9 @@
 	.st4{font-size:14px;}
 	.st5{font-size:12px;}
 	.st6{font-family:'HelveticaNeue';}
-	.st7{font-size:41.943px;}
-	.st8{font-size:15.0782px;}
+	.st7{font-size:15.0782px;}
+	.st8{font-size:29.2816px;}
+	.st9{font-size:41.943px;}
 </style>
 <g id="SVG" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg">
 	<g id="outer_stroke">
@@ -40,9 +41,11 @@
 		<text transform="matrix(1 0 0 1 388.6787 632.0312)" class="st3 st5">o</text>
 		<text transform="matrix(1 0 0 1 391.04 349.0625)" class="st3 st5">o</text>
 	</g>
+	<text transform="matrix(1 0 0 1 396.7106 811.9282)" class="st6 st7">http://www.facetop.earth</text>
+	<text transform="matrix(1 0 0 1 470.7109 788.751)" class="st6 st8">EARTH</text>
 </g>
 <g id="Text">
-	<text transform="matrix(1 0 0 1 40.4315 66.8853)" class="st6 st7">Facetop</text>
-	<text transform="matrix(1 0 0 1 40.4315 99.8348)" class="st6 st8">Size: medium</text>
+	<text transform="matrix(1 0 0 1 40.4315 66.8853)" class="st6 st9">Facetop</text>
+	<text transform="matrix(1 0 0 1 40.4315 99.8348)" class="st6 st7">Size: medium</text>
 </g>
 </svg>
