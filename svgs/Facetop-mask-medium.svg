@@ -3,49 +3,42 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 595.3 841.9" style="enable-background:new 0 0 595.3 841.9;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:none;stroke:#000000;stroke-width:0.75;stroke-miterlimit:11.3386;}
+	.st0{fill:none;stroke:#000000;stroke-width:0.75;stroke-miterlimit:11.3386;stroke-dasharray:6,6;}
 	.st1{fill:none;stroke:#000000;stroke-width:0.7512;stroke-miterlimit:11.3386;stroke-dasharray:6.0094,6.0094;}
-	.st2{fill:none;stroke:#000000;stroke-width:0.75;stroke-miterlimit:11.3386;stroke-dasharray:6,6;}
-	.st3{font-family:'Helvetica-Light';}
-	.st4{font-size:14px;}
-	.st5{font-size:12px;}
-	.st6{font-family:'HelveticaNeue';}
-	.st7{font-size:15.0782px;}
-	.st8{font-size:29.2816px;}
-	.st9{font-size:41.943px;}
+	.st2{fill:none;stroke:#000000;stroke-width:0.75;stroke-miterlimit:11.3386;}
+	.st3{font-family:'HelveticaNeue';}
+	.st4{font-size:15.0782px;}
+	.st5{font-size:29.2816px;}
+	.st6{font-size:41.943px;}
+	.st7{font-family:'Helvetica-Light';}
+	.st8{font-size:14px;}
 </style>
-<g id="SVG" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg">
-	<g id="outer_stroke">
-		<path id="path827" class="st0" d="M492.4,638.1l-371.2,3c-50-128.3-119.8-294,70.3-495.1c41.7,90.7,81,190,203,191.5l103.7-1.3
-			L492.4,638.1z"/>
-	</g>
-	<g id="inner_stroke">
-		<path id="path830" class="st1" d="M482.2,353.2l-5.7,267.4l-346.2,0.8c-57.7-141.4-76.8-295,58.5-445.2
-			c53.2,126,109.6,175.9,206.6,177.4L482.2,353.2z"/>
-	</g>
-	<g id="corners">
-		<path id="path833" class="st2" d="M497.8,353.2h-15.5l0.2-17"/>
-		<path id="path835" class="st2" d="M394.7,337.3l-2.5,301.5"/>
-		<path id="path837" class="st2" d="M492.8,620.5l-16.3,0.2l-0.2,17.4"/>
-		<path id="path839" class="st2" d="M138.1,640.9l-7.8-19.5h-16.9"/>
-		<path id="path841" class="st2" d="M200.4,165.9l-11.5,10.4l-8-19.3"/>
-		<path id="path843" class="st0" d="M542.5,487.9l-0.8,143"/>
-		<path id="path845" class="st0" d="M541.7,630.9l8.1,0.2"/>
-		<path id="path847" class="st0" d="M541.9,559.1h7.6"/>
-		<path id="path849" class="st0" d="M542.5,487.9h7.2"/>
-	</g>
-	<g id="numbers">
-		<text transform="matrix(1 0 0 1 552.3193 635.6016)" class="st3 st4">0</text>
-		<text transform="matrix(1 0 0 1 551.9717 563.7422)" class="st3 st4">1&quot;</text>
-		<text transform="matrix(1 0 0 1 553.0469 494)" class="st3 st4">2&quot;</text>
-		<text transform="matrix(1 0 0 1 388.6787 632.0312)" class="st3 st5">o</text>
-		<text transform="matrix(1 0 0 1 391.04 349.0625)" class="st3 st5">o</text>
-	</g>
-	<text transform="matrix(1 0 0 1 396.7106 811.9282)" class="st6 st7">http://www.facetop.earth</text>
-	<text transform="matrix(1 0 0 1 470.7109 788.751)" class="st6 st8">EARTH</text>
+<g id="Design">
+	<path id="strap_line" class="st0" d="M394.7,337.3l-2.5,301.5"/>
+	<path id="top_right_corner" class="st0" d="M497.8,353.2h-15.5l0.2-17"/>
+	<path id="bottom_right_corner" class="st0" d="M492.8,620.5l-16.3,0.2l-0.2,17.4"/>
+	<path id="bottom_left_corner" class="st0" d="M138.1,640.9l-7.8-19.5h-16.9"/>
+	<path id="top_corner" class="st0" d="M200.4,165.9l-11.5,10.4l-8-19.3"/>
+	<path id="stitch_line" class="st1" d="M482.2,353.2l-5.7,267.4l-346.2,0.8c-57.7-141.4-76.8-295,58.5-445.2
+		c53.2,126,109.6,175.9,206.6,177.4L482.2,353.2z"/>
+	<path id="outer_border" class="st2" d="M492.4,638.1l-371.2,3c-50-128.3-119.8-294,70.3-495.1c41.7,90.7,81,190,203,191.5
+		l103.7-1.3L492.4,638.1z"/>
 </g>
-<g id="Text">
-	<text transform="matrix(1 0 0 1 40.4315 66.8853)" class="st6 st9">Facetop</text>
-	<text transform="matrix(1 0 0 1 40.4315 99.8348)" class="st6 st7">Size: medium</text>
+<g id="Text_1_">
+	<text transform="matrix(1 0 0 1 396.7106 811.9282)" class="st3 st4">http://www.facetop.earth</text>
+	<text transform="matrix(1 0 0 1 470.7109 788.751)" class="st3 st5">EARTH</text>
+	<text transform="matrix(1 0 0 1 40.4315 66.8853)" class="st3 st6">Facetop</text>
+	<text transform="matrix(1 0 0 1 40.4315 99.8348)" class="st3 st4">Size: medium</text>
+</g>
+<g id="Measurement">
+	<g>
+		<text id="_x30__inches" transform="matrix(1 0 0 1 552.3193 635.6016)" class="st7 st8">0</text>
+		<text id="_x31__inch" transform="matrix(1 0 0 1 551.9717 563.7422)" class="st7 st8">1&quot;</text>
+		<text id="_x32__inches" transform="matrix(1 0 0 1 553.0469 494)" class="st7 st8">2&quot;</text>
+		<path id="vertical_line" class="st2" d="M542.5,487.9l-0.8,143"/>
+		<path id="bottom_line" class="st2" d="M541.7,630.9l8.1,0.2"/>
+		<path id="middle_line" class="st2" d="M541.9,559.1h7.6"/>
+		<path id="top_line" class="st2" d="M542.5,487.9h7.2"/>
+	</g>
 </g>
 </svg>

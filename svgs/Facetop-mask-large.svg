@@ -8,21 +8,15 @@
 	.st2{fill:none;stroke:#000000;stroke-width:0.7512;stroke-miterlimit:11.3386;stroke-dasharray:6.0094,6.0094;}
 	.st3{font-family:'HelveticaNeue';}
 	.st4{font-size:15.0782px;}
-	.st5{font-size:29.2816px;}
-	.st6{font-size:41.943px;}
+	.st5{font-size:41.943px;}
+	.st6{font-size:29.2816px;}
 </style>
-<g id="SVG" inkscape:version="0.92.4 (5da689c313, 2019-01-14)" sodipodi:docname="mask+2+large+pattern.svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg">
-	<g id="outer_stroke" inkscape:groupmode="layer" inkscape:label="Laag 2">
+<g id="SVG" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg">
+	<g id="outer_border" inkscape:groupmode="layer" inkscape:label="Laag 2">
 		<path id="path918" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccccc" class="st0" d="M496.9,633.1l-103.8,0.4
 			l-280.5-1.1C56.3,487.5,3.8,318.7,187.3,127.6c42.4,78.4,80.1,201.5,208.3,196.9l105.5-0.3L496.9,633.1z"/>
 	</g>
-	<g id="measurements" inkscape:groupmode="layer" inkscape:label="Laag 3">
-		<path id="path961" inkscape:connector-curvature="0" class="st0" d="M543.5,484.3v143.8"/>
-		<path id="path965" inkscape:connector-curvature="0" class="st0" d="M555.1,484.3h-11.6"/>
-		<path id="path967" inkscape:connector-curvature="0" class="st0" d="M555.1,555.6h-12"/>
-		<path id="path969" inkscape:connector-curvature="0" class="st0" d="M553.5,628.1h-9.9"/>
-	</g>
-	<g id="inner_stroke" inkscape:groupmode="layer" inkscape:label="Laag 4">
+	<g id="thread_line" inkscape:groupmode="layer" inkscape:label="Laag 4">
 		<path id="path972" inkscape:connector-curvature="0" sodipodi:nodetypes="cccccc" class="st1" d="M479.7,614.8l-355.5,0.4
 			C89.6,487.2,13.9,365,183.1,159.1c42.8,85.5,88.4,186.6,213,181.5h89.5L479.7,614.8z"/>
 		<path id="path986" inkscape:connector-curvature="0" class="st1" d="M183.1,159.1l14.5-11.8"/>
@@ -31,17 +25,25 @@
 		<path id="path992" inkscape:connector-curvature="0" class="st1" d="M496.9,615l-17.2-0.2l-0.2,18"/>
 		<path id="path994" inkscape:connector-curvature="0" class="st1" d="M500.7,340.6h-15.1l0.2-16.6"/>
 	</g>
-	<g id="ear_thread_stroke" inkscape:groupmode="layer" inkscape:label="Laag 5">
+	<g id="strap_thread" inkscape:groupmode="layer" inkscape:label="Laag 5">
 		<path id="path975" inkscape:connector-curvature="0" class="st2" d="M395.6,324.4l-1.9,309.1"/>
 	</g>
-	<text transform="matrix(1 0 0 1 396.7106 811.9282)" class="st3 st4">http://www.facetop.earth</text>
-	<text transform="matrix(1 0 0 1 470.7109 788.751)" class="st3 st5">EARTH</text>
 </g>
 <g id="Text">
 	<text transform="matrix(1 0 0 1 30.4315 90.8209)" class="st3 st4">Size: large</text>
-	<text transform="matrix(1 0 0 1 30.4315 57.8713)" class="st3 st6">Facetop</text>
-	<text transform="matrix(1 0 0 1 558.4315 489.8209)" class="st3 st4">2”</text>
-	<text transform="matrix(1 0 0 1 558.4315 560.6096)" class="st3 st4">1”</text>
-	<text transform="matrix(1 0 0 1 558.4315 631.3983)" class="st3 st4">0</text>
+	<text transform="matrix(1 0 0 1 30.4315 57.8713)" class="st3 st5">Facetop</text>
+	<text transform="matrix(1 0 0 1 396.7106 811.9282)" class="st3 st4">http://www.facetop.earth</text>
+	<text transform="matrix(1 0 0 1 470.7109 788.751)" class="st3 st6">EARTH</text>
+</g>
+<g id="Measurement">
+	<g>
+		<text transform="matrix(1 0 0 1 558.4315 489.8209)" class="st3 st4">2”</text>
+		<text transform="matrix(1 0 0 1 558.4315 560.6096)" class="st3 st4">1”</text>
+		<text transform="matrix(1 0 0 1 558.4315 631.3983)" class="st3 st4">0</text>
+		<path id="vertical_line" inkscape:connector-curvature="0" class="st0" d="M543.5,484.3v143.8"/>
+		<path id="bottom_line" inkscape:connector-curvature="0" class="st0" d="M553.5,628.1h-9.9"/>
+		<path id="middle_line" inkscape:connector-curvature="0" class="st0" d="M555.1,555.6h-12"/>
+		<path id="top_line" inkscape:connector-curvature="0" class="st0" d="M555.1,484.3h-11.6"/>
+	</g>
 </g>
 </svg>
