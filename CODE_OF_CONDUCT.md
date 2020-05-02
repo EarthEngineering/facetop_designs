@@ -1,5 +1,5 @@
 
-# Contributor Covenant Code of Conduct
+# EARTH Code of Conduct
 
 ## Our Pledge
 
