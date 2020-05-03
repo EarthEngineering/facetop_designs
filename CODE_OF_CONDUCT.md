@@ -1,10 +1,4 @@
-<style>
-  img {
-    width: 50%;
-  }
-</style>
-
-<img src="images/facetop_logo.jpg">
+<img src="images/facetop_logo.jpg" style="width: 50%;" />
 
 # EARTH Code of Conduct
 
