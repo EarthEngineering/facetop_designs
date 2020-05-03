@@ -1,3 +1,11 @@
+<style>
+  img {
+    width: 50%;
+  }
+</style>
+
+<img src="images/facetop_logo.jpg">
+
 # Facetop Designs
 
 Facetop Mask and Glove designs in multiple formats:
